@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scarlettlilith&label=Profile%20views&color=0e75b6&style=flat" alt="scarlettlilith" /> </p>
 
-- 🔭 MY Data Visualization Porject: [Exploring the Relationship Between Suicide Rates and Global Happiness: A Multi-Dimensional Analysis](https://github.com/ScarlettLilith/6335Data-Visualization-Python-/blob/main/LiXiaoXue_data%20visualization.ipynb)
+- 🔭 MY Porject:
+    - Data Visualization & Python [Exploring the Relationship Between Suicide Rates and Global Happiness: A Multi-Dimensional Analysis](https://github.com/ScarlettLilith/6335Data-Visualization-Python-/blob/main/LiXiaoXue_data%20visualization.ipynb)
+    - Data Visualization & Tableau [Exploring the Relationship Between Suicide Rates and Global Happiness: A Multi-Dimensional Analysis.gif](https://github.com/ScarlettLilith/6335Data-Visualization-Python-/blob/main/Tableau%20Dashboard.gif)
 
 - 🌱 I’m currently learning **Python, SQL, Tableau and HTML**
 
